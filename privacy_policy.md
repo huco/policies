@@ -26,7 +26,7 @@ The following list describes which data we might access and record:
 * **Location data**
   - GPS data is accessed during the ride to keep track of your location (longitude, latitude), altitude and speed. The first time you start a ride we will request your permission to access your location at any time. This permission is required to record ride location when app is in the background (for example when you use another app or lock screen).
   - App will access your location from the background only during an active ride.
-  - You can choose to revoke location access by disabling GNSS access in the activity profile (indoor profile is an example of such configuration).
+  - You can choose to revoke location access by disabling "Location Access" in the activity profile (indoor profile is an example of such configuration).
   - Apart from access during the ride, app might access your location while you are navigating the app interface to provide services like weather forecast for your location. 
 
 * **External sensors**
