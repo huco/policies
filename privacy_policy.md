@@ -6,7 +6,7 @@ Last updated: March 11, 2023.
 ### Introduction  
 This privacy policy applies to the **Peak Watts** app and explains how we collect, use, and share information about you when you use our app.
 
-If you choose to use our Service you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service.
+If you choose to use our Service you agree to the collection and use of information in relation to this policy. Collected information is used for providing and improving the Service.
 
 ### 1. Information Collection and Use  
 
